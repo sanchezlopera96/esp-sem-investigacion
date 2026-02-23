@@ -4,5 +4,9 @@ En este repositorio se hará un compendio de las investigaciones realizadas sobr
 
 ## Tabla de Contenido
 
-1. Idea
+1. [Idea](#idea-propuesta)
 2. [Tecnicas para planteamiento de problemas](./planteamiento_problema/PLANTEAMIENTO_PROBLEMA.md)
+
+## Idea Propuesta
+
+Tutor inteligente enfocado en mejorar las hábilidades de programación computacional de los estudiantes a partir de una ruta de aprendizaje personalizada.
