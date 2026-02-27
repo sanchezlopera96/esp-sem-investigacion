@@ -12,9 +12,17 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
 
   - **Limitaciones**: Su principal limitación es que cuando existen problemas complejos o que tienen multiples variables relacionadas, no aporta mucho valor. Es una técnica subjetiva, si la técnica es mal aplicada, puede que no resuelva los problemas de raiz. Depende mucho de realizar las preguntas correctas.
 
-  - **Cuándo usarla**: Se debe usar cuando te enfrentes a un problema lineal, de baja complejidad, donde necesitas una respuesta rápida. Es ideal para situaciones reactivas donde la relación causa-efecto es directa y no requiere análisis estadísticos profundos.
+  - **Cuándo usarla**: Se debe usar cuando te enfrentas a un problema simple o de baja complejidad, donde la relación causa-efecto es directa y no se requiere un análisis estadístico profundo. Es ideal para situaciones reactivas en las que necesitas identificar rápidamente la causa raíz, especialmente cuando no se dispone de muchos datos o recursos para un análisis más exhaustivo. No es recomendable para problemas complejos, multifactoriales o sistémicos.
 
-    **Ejemplo**: Un estudiante reprobó el examen de programación.
+    **Ejemplo**: El sistema de ventas en línea de una tienda dejó de funcionar durante el Black Friday.
+
+    - ¿Por qué? Porque el servidor principal se sobrecargó y dejó de responder.
+    - ¿Por qué se sobrecargó el servidor? Porque hubo un tráfico mucho mayor al esperado y la infraestructura no estaba preparada.
+    - ¿Por qué la infraestructura no estaba preparada? Porque no se realizó una prueba de carga previa al evento.
+    - ¿Por qué no se realizó la prueba de carga? Porque el equipo de TI no tenía conocimiento de la magnitud esperada del tráfico.
+    - ¿Por qué el equipo de TI no tenía esa información? Porque no hubo comunicación efectiva entre el área de marketing (que planeó la campaña) y el área técnica.
+
+    **Causa raíz:** Falta de comunicación entre áreas clave para anticipar y preparar la infraestructura ante eventos de alta demanda.
 
   ![diagrama_five_whys](five_whys_diagram.png)
 
@@ -28,7 +36,7 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
 
   - **Cuándo usarla**: Se utiliza cuando el problema es claramente multifactorial y necesitas estructurar una sesión de lluvia de ideas. Es indicada cuando sospechas que la falla proviene de una combinación de áreas distintas y necesitas categorizarlas para no perder ninguna de vista.
 
-      **Ejemplo**: La página web de inscripción de materias de la universidad se cae todos los semestres.
+    **Ejemplo**: La página web de inscripción de materias de la universidad se cae todos los semestres.
 
     ![diagram_fish_bone](fish_bone_diagram.png)
 
@@ -46,13 +54,13 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
   
   - **Ventajas**: Es una herramienta extremadamente estructurada y exhaustiva. Asegura que no se pasen por alto detalles importantes al planificar o analizar una situación. Al ser un formato tipo lista de verificación, es fácil de entender, estandarizar y aplicar por cualquier miembro del equipo.
 
-  - **Limitaciones**: Puede resultar una técnica demasiado rígida o burocrática para problemas muy simples o en entornos ágiles. Además, se enfoca mucho más en la operatividad y ejecución (el "qué" y el "cómo") que en el descubrimiento profundo de causas raíz de problemas muy complejos. 
+  - **Limitaciones**: Puede resultar una técnica demasiado rígida o burocrática para problemas muy simples o en entornos ágiles. Además, se enfoca mucho más en la operatividad y ejecución (el "qué" y el "cómo") que en el descubrimiento profundo de causas raíz de problemas muy complejos.
 
   - **Cuándo usarla**: Se debe utilizar cuando ya has diagnosticado el problema, ya tienes una solución en mente y necesitas pasar a la fase de ejecución. Es la técnica correcta cuando tu objetivo es crear un plan de acción libre de ambigüedades, asegurando que todos los involucrados sepan exactamente qué hacer, cuándo, cómo y con qué presupuesto.
 
-  **Ejemplo**: Organizar un Hackathon en la facultad para practicar.
+    **Ejemplo**: Organizar un Hackathon en la facultad para practicar.
 
-    ![diagram_5w2h](5W2H_diagram.png)
+  ![diagram_5w2h](5W2H_diagram.png)
 
 - **Árbol del problema**: El árbol de problema es una herramienta gráfica que permite establecer relaciones de causa y efecto. Esta técnica ayuda a estructurar en una jerarquía los problemas identificados.
 
@@ -62,7 +70,7 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
 
   - **Limitaciones**: La principal limitación de esta técnica es sobre simplificar el problema omitiendo partes importantes y sobre todo esta técnica no permite dimensionar la magnitud de cada causa o efecto del problema lo cual hace dificil la priorización.
 
-  - **Cuándo usarla**: Se utiliza en las fases iniciales de diseño de un proyecto. Es la opción correcta cuando necesitas definir un objetivo central claro y tienes la necesidad estricta de separar los síntomas de las causas estructurales.
+  - **Cuándo usarla**: Se utiliza en las fases iniciales de diseño de un proyecto, especialmente cuando necesitas comprender a fondo una situación problemática antes de definir soluciones. Es la opción adecuada cuando es importante definir un objetivo central claro y diferenciar los síntomas de las causas estructurales. Además, resulta útil cuando se requiere la participación de varios actores para construir una visión compartida del problema y priorizar intervenciones de manera informada.
 
     **Ejemplo**: Analizar el problema de "Alta deserción en el curso de Algoritmos".
 
@@ -88,7 +96,7 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
 
   - **Cuándo usarla**: Se usa en la fase de planeación estratégica. Es indispensable cuando necesitas evaluar el estado actual de un proyecto, producto u organización antes de tomar una decisión importante, obligándote a mirar tanto el panorama interno como el entorno externo.
 
-      **Ejemplo**: Un estudiante está decidiendo si debería invertir sus vacaciones en aprender un lenguaje de programación nuevo y difícil.
+    **Ejemplo**: Un estudiante está decidiendo si debería invertir sus vacaciones en aprender un lenguaje de programación nuevo y difícil.
 
   ![diagram_dofa](DOFA_diagram.png)
 
@@ -104,9 +112,9 @@ Para resolver problemas existen diferentes técnicas, por ejemplo:
 
   - **Limitaciones**: Su principal desventaja es que toma mucho tiempo en construir el mapa con todas las posibles relaciones entre las causas, es un diagrama muy subjetivo. Si se aplica mal, el diagrama puede volverse muy complejo para una visión rápida del problema. Hay un riesgo alto de caer en la generalización del problema o sus causas.
 
-  - **Cuándo usarla**: Se debe usar cuando te enfrentes a problemas sistémicos, caóticos o altamente complejos. Es la técnica obligatoria cuando sabes que las causas no son aisladas, sino que están interconectadas y forman ciclos.
+  - **Cuándo usarla**: Se debe usar cuando te enfrentes a problemas sistémicos, caóticos o altamente complejos. Es especialmente útil cuando sabes que las causas no son aisladas, sino que están interconectadas y pueden formar ciclos o bucles de retroalimentación. Esta técnica resulta recomendable cuando el equipo necesita una visión global y estructurada del problema antes de priorizar acciones o intervenciones.
 
-      **Ejemplo**: Analizar el agotamiento extremo en los estudiantes de último semestre.
+    **Ejemplo**: Analizar el agotamiento extremo en los estudiantes de último semestre.
 
   ![diagram_problem_mapping](problem_mapping_diagram.png)
 
