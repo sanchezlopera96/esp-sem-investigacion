@@ -1,79 +1,67 @@
 # Análisis de problema
 
-Los estudiantes de programación se enfrentan a **dificultades para identificar sus debilidades técnicas especificas** y **seguir un plan de aprendizaje estructurado que se adapte a su nivel**. Esto genera **desmotivación, frustración, un progreso lento** en el desarrollo de hábilidades e incluso deserción.
+Los estudiantes de programación experimentan un **avance lento en su aprendizaje**, ya que **carecen de una guía estructurada** y adaptada a sus necesidades individuales, lo que **dificulta la identificación y superación de sus debilidades técnicas**.
 
-## Aplicacion de 5 Whys? al problema
+## Aplicación de 5 Whys al problema
 
 - **Problema inicial**:
-    Los estudiantes de programación se enfrentan a dificultades para identificar sus debilidades técnicas específicas y seguir un plan de aprendizaje estructurado que se adapte a su nivel.
+  Los estudiantes de programación experimentan un avance lento en su aprendizaje.
 
-- **¿Por qué los estudiantes tienen dificultades para identificar sus debilidades específicas?**
-    Porque no cuentan con herramientas que evalúen su nivel de conocimiento y les proporcionen retroalimentación personalizada.
+- **¿Por qué experimentan un avance lento?**
+  Porque carecen de una guía estructurada y adaptada a sus necesidades individuales.
 
-- **¿Por qué no cuentan con herramientas que evalúen su nivel de conocimiento?**
-    Porque los sistemas educativos tradicionales no suelen incluir evaluaciones dinámicas ni adaptativas.
+- **¿Por qué carecen de una guía estructurada y personalizada?**
+  Porque no disponen de herramientas que les ayuden a identificar sus debilidades técnicas y a trazar un plan de aprendizaje personalizado.
 
-- **¿Por qué los sistemas educativos no incluyen evaluaciones dinámicas ni adaptativas?**
-    Porque diseñar e implementar este tipo de sistemas requiere tecnología avanzada y un enfoque personalizado que no siempre está disponible.
+- **¿Por qué no disponen de estas herramientas?**
+  Porque la mayoría de los recursos disponibles son genéricos y no ofrecen diagnósticos ni recomendaciones individualizadas.
 
-- **¿Por qué no se implementa esta tecnología avanzada en el aprendizaje de programación?**
-    Porque puede haber una falta de recursos, conocimiento técnico o interés en desarrollar soluciones específicas para este problema.
+- **¿Por qué los recursos son genéricos y no ofrecen personalización?**
+  Porque no se han desarrollado soluciones tecnológicas accesibles que automaticen la evaluación y el diseño de rutas de aprendizaje personalizadas para estudiantes de programación.
 
-- **¿Por qué hay una falta de recursos o interés en desarrollar estas soluciones?**
-    Porque no se ha priorizado la personalización del aprendizaje como una necesidad crítica en la enseñanza de programación.
+- **¿Por qué no se han desarrollado estas soluciones tecnológicas accesibles?**
+  Porque existe una falta de iniciativas enfocadas en la personalización del aprendizaje mediante tecnología en el ámbito de la programación, ya sea por desconocimiento, falta de inversión o baja demanda identificada.
 
     ![diagram_five_whys_applied](5Whys_Applied.png)
 
-## Aplicacion de Mapa del Problema
+## Aplicación de Mapa del Problema
 
 - **Problema principal**:
-    Los estudiantes de programación tienen dificultades para identificar sus debilidades técnicas específicas y seguir un plan de aprendizaje estructurado, lo que genera desmotivación, frustración, progreso lento e incluso deserción.
+    Avance lento en el aprendizaje de los estudiantes de programación.
 
 - **Causas principales y subcausas**:
 
-  - **Falta de herramientas personalizadas**
-    - No existen sistemas que evalúen el nivel de conocimiento de los estudiantes.
-    - Las herramientas actuales no ofrecen retroalimentación adaptativa.
-    - Los recursos educativos no están diseñados para ajustarse a las necesidades individuales.
+  - **Falta de soluciones tecnológicas personalizadas y accesibles**
+    - No existen herramientas que automaticen la evaluación de debilidades técnicas.
+    - Los recursos disponibles son genéricos y no ofrecen recomendaciones individualizadas.
+    - Falta de desarrollo de plataformas que generen rutas de aprendizaje personalizadas.
 
-  - **Falta de estructura en el aprendizaje**
-    - Los estudiantes no tienen acceso a rutas de aprendizaje claras y progresivas.
-    - Los planes de estudio no están diseñados para adaptarse a diferentes niveles de habilidad.
-    - No hay un seguimiento continuo del progreso del estudiante.
+  - **Baja iniciativa en personalización educativa**
+    - Falta de inversión o interés en el desarrollo de tecnología educativa personalizada.
+    - Desconocimiento de la importancia de la personalización en el aprendizaje de programación.
 
-  - **Desmotivación y frustración**
-    - Los estudiantes no ven un progreso tangible en sus habilidades.
-    - Las tareas o ejercicios son demasiado difíciles o demasiado fáciles.
-    - Falta de apoyo o guía durante el proceso de aprendizaje.
-
-  - **Limitaciones en el sistema educativo**
-    - Enfoque tradicional en la enseñanza, sin personalización.
-    - Falta de integración de tecnologías avanzadas como inteligencia artificial.
-    - Recursos limitados para implementar soluciones innovadoras.
+  - **Consecuencias**
+    - Los estudiantes no identifican sus debilidades técnicas.
+    - No cuentan con un plan de aprendizaje adaptado.
+    - Progreso lento y desmotivación.
 
     ![diagram_problem_mapping_applied](mapping_problem_applied.png)
 
 ## Aplicación del Árbol del Problema
 
 - **Problema central**:
-    Los estudiantes de programación tienen dificultades para identificar sus debilidades técnicas específicas y seguir un plan de aprendizaje estructurado, lo que genera desmotivación, frustración, progreso lento e incluso deserción.
+  Avance lento en el aprendizaje de los estudiantes de programación.
 
 - **Causas principales**:
 
-  - **Falta de herramientas personalizadas**:
-    - No existen sistemas que evalúen el nivel de conocimiento de los estudiantes.
-    - Las herramientas actuales no ofrecen retroalimentación adaptativa.
-    - Los recursos educativos no están diseñados para ajustarse a las necesidades individuales.
+  - **Falta de soluciones tecnológicas personalizadas y accesibles**:
+    - No existen herramientas que automaticen la evaluación de debilidades técnicas.
+    - Recursos y plataformas de aprendizaje son genéricos y no adaptativos.
+    - No se generan rutas de aprendizaje personalizadas.
 
-  - **Falta de estructura en el aprendizaje**:
-    - Los estudiantes no tienen acceso a rutas de aprendizaje claras y progresivas.
-    - Los planes de estudio no están diseñados para adaptarse a diferentes niveles de habilidad.
-    - No hay un seguimiento continuo del progreso del estudiante.
-
-  - **Limitaciones en el sistema educativo**:
-    - Enfoque tradicional en la enseñanza, sin personalización.
-    - Falta de integración de tecnologías avanzadas como inteligencia artificial.
-    - Recursos limitados para implementar soluciones innovadoras.
+  - **Baja iniciativa en personalización educativa**:
+    - Falta de inversión o interés en tecnología educativa personalizada.
+    - Desconocimiento de la importancia de la personalización.
 
 - **Efectos principales**:
 
@@ -82,7 +70,7 @@ Los estudiantes de programación se enfrentan a **dificultades para identificar 
     - Las tareas o ejercicios son demasiado difíciles o demasiado fáciles.
     - Falta de apoyo o guía durante el proceso de aprendizaje.
 
-  - **Progreso lento en el desarrollo de habilidades**:
+  - **Progreso desigual y lento**:
     - Los estudiantes no logran avanzar al ritmo esperado.
     - Se genera una brecha entre el nivel actual y el nivel deseado.
 
